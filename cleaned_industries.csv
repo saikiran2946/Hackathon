@@ -1,0 +1,389 @@
+industry_id,industry_name
+1,defense and space manufacturing
+3,computer hardware manufacturing
+4,software development
+5,computer networking products
+6,"technology, information and internet"
+7,semiconductor manufacturing
+8,telecommunications
+9,law practice
+10,legal services
+11,business consulting and services
+12,biotechnology research
+13,medical practices
+14,hospitals and health care
+15,pharmaceutical manufacturing
+16,veterinary services
+17,medical equipment manufacturing
+18,personal care product manufacturing
+19,retail apparel and fashion
+20,sporting goods manufacturing
+21,tobacco manufacturing
+22,retail groceries
+23,food and beverage manufacturing
+24,computers and electronics manufacturing
+25,manufacturing
+26,furniture and home furnishings manufacturing
+27,retail
+28,entertainment providers
+29,gambling facilities and casinos
+30,travel arrangements
+31,hospitality
+32,restaurants
+33,spectator sports
+34,food and beverage services
+35,"movies, videos, and sound"
+36,broadcast media production and distribution
+37,"museums, historical sites, and zoos"
+38,artists and writers
+39,performing arts
+40,recreational facilities
+41,banking
+42,insurance
+43,financial services
+44,real estate
+45,investment banking
+46,investment management
+47,accounting
+48,construction
+49,wholesale building materials
+50,architecture and planning
+51,civil engineering
+52,aviation and aerospace component manufacturing
+53,motor vehicle manufacturing
+54,chemical manufacturing
+55,machinery manufacturing
+56,mining
+57,oil and gas
+58,shipbuilding
+59,utilities
+60,textile manufacturing
+61,paper and forest product manufacturing
+62,railroad equipment manufacturing
+63,farming
+65,dairy product manufacturing
+66,fisheries
+67,primary and secondary education
+68,higher education
+69,education administration programs
+70,research services
+71,armed forces
+72,legislative offices
+73,administration of justice
+74,international affairs
+75,government administration
+76,executive offices
+77,law enforcement
+78,public safety
+79,public policy offices
+80,advertising services
+81,newspaper publishing
+82,book and periodical publishing
+83,printing services
+84,information services
+85,libraries
+86,environmental services
+87,freight and package transportation
+88,individual and family services
+89,religious institutions
+90,civic and social organizations
+91,consumer services
+92,truck transportation
+93,warehousing and storage
+94,airlines and aviation
+95,maritime transportation
+96,it services and it consulting
+97,market research
+98,public relations and communications services
+99,design services
+100,non-profit organizations
+101,fundraising
+102,strategic management services
+103,writing and editing
+104,staffing and recruiting
+105,professional training and coaching
+106,venture capital and private equity principals
+107,political organizations
+108,translation and localization
+109,computer games
+110,events services
+111,retail art supplies
+112,"appliances, electrical, and electronics manufacturing"
+113,online audio and video media
+114,nanotechnology research
+115,musicians
+116,"transportation, logistics, supply chain and storage"
+117,plastics manufacturing
+118,computer and network security
+119,wireless services
+120,alternative dispute resolution
+121,security and investigations
+122,facilities services
+123,outsourcing and offshoring consulting
+124,wellness and fitness services
+125,alternative medicine
+126,media production
+127,animation and post-production
+128,leasing non-residential real estate
+129,capital markets
+130,think tanks
+131,philanthropic fundraising services
+132,e-learning providers
+133,wholesale
+134,wholesale import and export
+135,industrial machinery manufacturing
+136,photography
+137,human resources services
+138,retail office equipment
+139,mental health care
+140,graphic design
+141,international trade and development
+142,beverage manufacturing
+143,retail luxury goods and jewelry
+144,renewable energy semiconductor manufacturing
+145,"glass, ceramics and concrete manufacturing"
+146,packaging and containers manufacturing
+147,automation machinery manufacturing
+148,government relations services
+150,horticulture
+201,"farming, ranching, forestry"
+298,forestry and logging
+332,"oil, gas, and mining"
+382,"electric power transmission, control, and distribution"
+383,electric power generation
+387,solar electric power generation
+388,environmental quality programs
+397,natural gas distribution
+398,"water, waste, steam, and air conditioning services"
+406,building construction
+408,residential building construction
+413,nonresidential building construction
+419,utility system construction
+435,specialty trade contractors
+453,building equipment contractors
+481,animal feed manufacturing
+495,sugar and confectionery product manufacturing
+521,meat products manufacturing
+528,seafood product manufacturing
+529,baked goods manufacturing
+598,apparel manufacturing
+615,fashion accessories manufacturing
+622,footwear manufacturing
+679,oil and coal product manufacturing
+690,chemical raw materials manufacturing
+709,agricultural chemical manufacturing
+722,"paint, coating, and adhesive manufacturing"
+727,soap and cleaning product manufacturing
+743,plastics and rubber product manufacturing
+763,rubber products manufacturing
+779,glass product manufacturing
+784,wood product manufacturing
+799,abrasives and nonmetallic minerals manufacturing
+807,primary metal manufacturing
+840,fabricated metal products
+852,architectural and structural metal manufacturing
+861,"boilers, tanks, and shipping container manufacturing"
+871,construction hardware manufacturing
+873,spring and wire product manufacturing
+876,turned products and fastener manufacturing
+883,metal treatments
+887,"metal valve, ball, and roller manufacturing"
+901,"agriculture, construction, mining machinery manufacturing"
+918,commercial and service industry machinery manufacturing
+923,hvac and refrigeration equipment manufacturing
+928,metalworking machinery manufacturing
+935,engines and power transmission equipment manufacturing
+964,communications equipment manufacturing
+973,audio and video equipment manufacturing
+983,measuring and control instrument manufacturing
+994,magnetic and optical media manufacturing
+998,electric lighting equipment manufacturing
+1029,transportation equipment manufacturing
+1042,motor vehicle parts manufacturing
+1080,household and institutional furniture manufacturing
+1090,office furniture and fixtures manufacturing
+1095,mattress and blinds manufacturing
+1128,wholesale motor vehicles and parts
+1137,wholesale furniture and home furnishings
+1153,wholesale photography equipment and supplies
+1157,wholesale computer equipment
+1166,wholesale metals and minerals
+1171,"wholesale appliances, electrical, and electronics"
+1178,"wholesale hardware, plumbing, heating equipment"
+1187,wholesale machinery
+1206,wholesale recyclable materials
+1208,wholesale luxury goods and jewelry
+1212,wholesale paper products
+1221,wholesale drugs and sundries
+1222,wholesale apparel and sewing supplies
+1230,wholesale footwear
+1231,wholesale food and beverage
+1250,wholesale raw farm products
+1257,wholesale chemical and allied products
+1262,wholesale petroleum and petroleum products
+1267,wholesale alcoholic beverages
+1285,internet marketplace platforms
+1292,retail motor vehicles
+1309,retail furniture and home furnishings
+1319,"retail appliances, electrical, and electronic equipment"
+1324,retail building materials and garden equipment
+1339,food and beverage retail
+1359,retail health and personal care products
+1407,retail musical instruments
+1409,retail books and printed news
+1423,retail florists
+1424,retail office supplies and gifts
+1431,retail recyclable materials & used merchandise
+1445,online and mail order retail
+1481,rail transportation
+1495,ground passenger transportation
+1497,urban transit services
+1512,school and employee bus services
+1520,pipeline transportation
+1594,"technology, information and media"
+1673,credit intermediation
+1696,loan brokers
+1713,securities and commodity exchanges
+1720,investment advice
+1725,insurance carriers
+1737,insurance agencies and brokerages
+1738,"claims adjusting, actuarial services"
+1742,funds and trusts
+1743,insurance and employee benefit funds
+1745,pension funds
+1750,trusts and estates
+1757,real estate and equipment rental services
+1770,real estate agents and brokers
+1779,equipment rental services
+1786,consumer goods rental
+1798,commercial and industrial equipment rental
+1810,professional services
+1855,it system design services
+1862,marketing services
+1905,holding companies
+1912,administrative and support services
+1916,office administration
+1923,executive search services
+1931,telephone call centers
+1938,collection agencies
+1958,security systems services
+1965,janitorial services
+1986,waste treatment and disposal
+1999,education
+2018,technical and vocational training
+2027,sports and recreation instruction
+2045,dentists
+2054,"physical, occupational and speech therapists"
+2069,medical and diagnostic laboratories
+2074,home health care services
+2081,hospitals
+2091,nursing homes and residential care facilities
+2115,community services
+2130,performing arts and spectator sports
+2133,theater companies
+2142,sports teams and clubs
+2159,museums
+2163,zoos and botanical gardens
+2167,amusement parks and arcades
+2179,golf courses and country clubs
+2190,accommodation and food services
+2194,hotels and motels
+2197,"bed-and-breakfasts, hostels, homestays"
+2212,caterers
+2225,repair and maintenance
+2226,vehicle repair and maintenance
+2258,personal and laundry services
+2259,personal care services
+2318,household services
+2353,health and human services
+2358,public health
+2360,public assistance programs
+2366,"air, water, and waste program management"
+2368,conservation programs
+2369,housing and community development
+2374,community development and urban planning
+2375,economic programs
+2391,military and international affairs
+2401,operations consulting
+2458,data infrastructure and analytics
+2468,electrical equipment manufacturing
+2489,wind electric power generation
+2500,wineries
+2934,landscaping services
+3065,courts of law
+3068,correctional institutions
+3070,fire protection
+3081,housing programs
+3085,transportation programs
+3086,utilities administration
+3089,space research and technology
+3101,desktop computing software products
+3102,it system custom software development
+3103,it system operations and maintenance
+3104,it system installation and disposal
+3105,it system training and support
+3106,it system data services
+3107,it system testing and evaluation
+3124,internet news
+3126,interior design
+3127,social networking platforms
+3128,business intelligence platforms
+3129,business content
+3130,data security software products
+3132,internet publishing
+3134,blockchain services
+3187,defense & space
+3188,veterinary
+3189,cosmetics
+3190,apparel & fashion
+3191,consumer electronics
+3192,consumer goods
+3193,furniture
+3194,"leisure, travel & tourism"
+3195,food & beverages
+3196,fine art
+3197,building materials
+3198,automotive
+3199,dairy
+3200,education management
+3202,non-profit organization management
+3203,program development
+3207,"health, wellness & fitness"
+3208,e-learning
+3210,human resources
+3212,luxury goods & jewelry
+3213,renewables & environment
+3214,online media
+3216,industrial automation
+3217,medical device
+3218,semiconductors
+3219,commercial real estate
+3220,wine & spirits
+3221,mechanical or industrial engineering
+3222,transportation/trucking/railroad
+3223,packaging & containers
+3224,food production
+3226,aviation & aerospace
+3227,design
+3229,warehousing
+3231,information technology & services
+3233,research
+3234,computer networking
+3235,computer hardware
+3236,maritime
+3237,entertainment
+3238,biotechnology
+3239,paper & forest products
+3240,renewable energy power generation
+3241,renewable energy equipment manufacturing
+3242,engineering services
+3243,services for renewable energy
+3244,digital accessibility services
+3246,accessible architecture and design
+3247,robot manufacturing
+3248,robotics engineering
+3249,surveying and mapping services
+3250,retail pharmacies
+3251,climate technology product manufacturing
+3252,climate data and analytics
+3253,alternative fuel vehicle manufacturing
